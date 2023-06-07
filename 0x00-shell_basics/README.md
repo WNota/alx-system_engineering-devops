@@ -1,1 +1,2 @@
-This is another readme
+#!/bin/bash
+"This is another readme"
