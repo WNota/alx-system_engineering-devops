@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -empty -not -path
+find . -empty | rev | cut -d '/' -f 1 | rev
